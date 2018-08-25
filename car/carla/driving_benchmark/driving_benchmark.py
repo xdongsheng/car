@@ -19,7 +19,9 @@ from carla.tcp import TCPConnectionError
 
 from . import results_printer
 from .recording import Recording
+from carla.image_converter import depth_to_local_point_cloud, to_rgb_array
 
+from xds_DQN import DeepQNetwork
 
 def sldist(c1, c2):
     return math.sqrt((c2[0] - c1[0]) ** 2 + (c2[1] - c1[1]) ** 2)
@@ -97,6 +99,15 @@ class DrivingBenchmark(object):
 
         logging.info('START')
         print('START')
+        # 测试RL的位置
+        RL = DeepQNetwork(n_actions=7,
+                          n_features=200800,
+                          learning_rate=0.01, e_greedy=0.9,
+                          replace_target_iter=100, memory_size=2000,
+                          e_greedy_increment=0.001, )
+
+        total_steps = 0
+
 
         # for experiment in experiment_suite.get_experiments()[int(start_experiment):]:
         for i in range(5):
@@ -145,7 +156,7 @@ class DrivingBenchmark(object):
                             agent, client, time_out, positions[end_index],
                             str(experiment.Conditions.WeatherId) + '_'
                             + str(experiment.task) + '_' + str(start_index)
-                            + '.' + str(end_index))
+                            + '.' + str(end_index),RL,total_steps)
 
                     # Write the general status of the just ran episode
                     self._recording.write_summary_results(
@@ -206,7 +217,7 @@ class DrivingBenchmark(object):
             client,
             time_out,
             target,
-            episode_name):
+            episode_name,rl,total_steps):
         """
          Run one episode of the benchmark (Pose) for a certain agent.
          这是运行一次episode
@@ -239,9 +250,10 @@ class DrivingBenchmark(object):
         frame = 0
         distance = 10000
         success = False
-
-        while (current_timestamp - initial_timestamp) < (time_out * 1000) and not success:
-
+        episode = 0
+        #while (current_timestamp - initial_timestamp) < (time_out * 1000) and not success:
+        while True and not success:
+            episode += 1
             # Read data from server with the client
             # 从客户端获取到数据
             measurements, sensor_data = client.read_data()
@@ -249,11 +261,14 @@ class DrivingBenchmark(object):
             # 计算到达目标的方向
             directions = self._get_directions(measurements.player_measurements.transform, target)
             # Agent process the data.
-            # agent处理数据
-            control = agent.run_step(measurements, sensor_data, directions, target)
+            # 从agent返回动作和observation,然后在发送动作之后获取下一个observation_
+            control, observation, action= agent.run_step(measurements, sensor_data, directions, target,rl)
             # Send the control commands to the vehicle
             # 将控制命令发送到车辆
             client.send_control(control)
+            image_RGB = to_rgb_array(sensor_data['CameraRGB'])
+            image_RGB_real = image_RGB.flatten()
+            observation_ = image_RGB_real
 
             # save images if the flag is activated
             # 如果激活标记，则保存图像
@@ -268,9 +283,18 @@ class DrivingBenchmark(object):
 
             current_timestamp = measurements.game_timestamp
             # Get the distance travelled until now
-            # 获取到目前为止的距离
+            # 获取到目前为止的距离    也就是reward
             distance = sldist([current_x, current_y],
                               [target.location.x, target.location.y])
+            player_measurements = measurements.player_measurements
+            other_lane = 100 * player_measurements.intersection_otherlane
+            offroad = 100 * player_measurements.intersection_offroad
+            reward = -other_lane-offroad+distance
+            ### RLstore
+            rl.store_transition(observation,action,reward,observation_)
+            if total_steps > 100:
+                rl.learn()
+            total_steps += 1
             # Write status of the run on verbose mode
             # 在详细模式下写入运行状态
             logging.info('Status:')
@@ -288,11 +312,19 @@ class DrivingBenchmark(object):
             frame += 1
             measurement_vec.append(measurements.player_measurements)
             control_vec.append(control)
+            col = player_measurements.collision_other
+            if offroad > 10 or other_lane > 10 or col > 0:
+                print('终止条件触发')
+                print('episode: ', total_steps,
+                      'ep_r: ', round(reward, 2),
+                      ' epsilon: ', round(rl.epsilon, 2))
+                return 0, measurement_vec, control_vec, time_out, distance
 
-        if success:
-            return 1, measurement_vec, control_vec, float(
-                current_timestamp - initial_timestamp) / 1000.0, distance
-        return 0, measurement_vec, control_vec, time_out, distance
+
+            if success:
+                return 1, measurement_vec, control_vec, float(
+                    current_timestamp - initial_timestamp) / 1000.0, distance
+            return 0, measurement_vec, control_vec, time_out, distance
 
 
 def run_driving_benchmark(agent,
@@ -327,22 +359,22 @@ def run_driving_benchmark(agent,
 
                 benchmark_summary = benchmark.benchmark_agent(experiment_suite, agent, client)
 
-                print("")
-                print("")
-                print("----- Printing results for training weathers (Seen in Training) -----")
-                print("")
-                print("")
-                results_printer.print_summary(benchmark_summary, experiment_suite.train_weathers,
-                                              benchmark.get_path())
-
-                print("")
-                print("")
-                print("----- Printing results for test weathers (Unseen in Training) -----")
-                print("")
-                print("")
-
-                results_printer.print_summary(benchmark_summary, experiment_suite.test_weathers,
-                                              benchmark.get_path())
+                # print("")
+                # print("")
+                # print("----- Printing results for training weathers (Seen in Training) -----")
+                # print("")
+                # print("")
+                # results_printer.print_summary(benchmark_summary, experiment_suite.train_weathers,
+                #                               benchmark.get_path())
+                #
+                # print("")
+                # print("")
+                # print("----- Printing results for test weathers (Unseen in Training) -----")
+                # print("")
+                # print("")
+                #
+                # results_printer.print_summary(benchmark_summary, experiment_suite.test_weathers,
+                #                               benchmark.get_path())
 
                 break
 
