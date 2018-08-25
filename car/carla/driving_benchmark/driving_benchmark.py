@@ -139,6 +139,7 @@ class DrivingBenchmark(object):
 
                     # running the agent
                     # 运行 agent 跳转到_run-navigation_episode
+                    # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
                     (result, reward_vec, control_vec, final_time, remaining_distance) = \
                         self._run_navigation_episode(
                             agent, client, time_out, positions[end_index],
