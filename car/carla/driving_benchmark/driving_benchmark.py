@@ -96,9 +96,16 @@ class DrivingBenchmark(object):
         print(start_pose,start_experiment)
 
         logging.info('START')
+        print('START')
 
-        for experiment in experiment_suite.get_experiments()[int(start_experiment):]:
+        # for experiment in experiment_suite.get_experiments()[int(start_experiment):]:
+        for i in range(5):
+            a = experiment_suite.get_experiments()[int(start_experiment):]
+            #for a in experiment_suite.get_experiments()[int(start_experiment):]:
+            experiment = a[0]
 
+            print('experiment')
+            print(experiment)
             positions = client.load_settings(
                 experiment.conditions).player_start_spots
 
