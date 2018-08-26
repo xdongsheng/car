@@ -66,28 +66,28 @@ class DeepQNetwork:
         w_initializer, b_initializer = tf.random_normal_initializer(0., 0.3), tf.constant_initializer(0.1)
 
         # ------------------ build evaluate_net ------------------
-        with tf.variable_scope('eval_net'):
+        with tf.variable_scope('eval_net',reuse=tf.AUTO_REUSE):
             e1 = tf.layers.dense(self.s, 20, tf.nn.relu, kernel_initializer=w_initializer,
                                  bias_initializer=b_initializer, name='e1')
             self.q_eval = tf.layers.dense(e1, self.n_actions, kernel_initializer=w_initializer,
                                           bias_initializer=b_initializer, name='q')
 
         # ------------------ build target_net ------------------
-        with tf.variable_scope('target_net'):
+        with tf.variable_scope('target_net',reuse=tf.AUTO_REUSE):
             t1 = tf.layers.dense(self.s_, 20, tf.nn.relu, kernel_initializer=w_initializer,
                                  bias_initializer=b_initializer, name='t1')
             self.q_next = tf.layers.dense(t1, self.n_actions, kernel_initializer=w_initializer,
                                           bias_initializer=b_initializer, name='t2')
 
-        with tf.variable_scope('q_target'):
+        with tf.variable_scope('q_target',reuse=tf.AUTO_REUSE):
             q_target = self.r + self.gamma * tf.reduce_max(self.q_next, axis=1, name='Qmax_s_')    # shape=(None, )
             self.q_target = tf.stop_gradient(q_target)
-        with tf.variable_scope('q_eval'):
+        with tf.variable_scope('q_eval',reuse=tf.AUTO_REUSE):
             a_indices = tf.stack([tf.range(tf.shape(self.a)[0], dtype=tf.int32), self.a], axis=1)
             self.q_eval_wrt_a = tf.gather_nd(params=self.q_eval, indices=a_indices)    # shape=(None, )
-        with tf.variable_scope('loss'):
+        with tf.variable_scope('loss',reuse=tf.AUTO_REUSE):
             self.loss = tf.reduce_mean(tf.squared_difference(self.q_target, self.q_eval_wrt_a, name='TD_error'))
-        with tf.variable_scope('train'):
+        with tf.variable_scope('train',reuse=tf.AUTO_REUSE):
             self._train_op = tf.train.RMSPropOptimizer(self.lr).minimize(self.loss)
 
     def store_transition(self, s, a, r, s_):

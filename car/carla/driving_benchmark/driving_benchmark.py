@@ -102,9 +102,9 @@ class DrivingBenchmark(object):
         # 测试RL的位置
         RL = DeepQNetwork(n_actions=7,
                           n_features=100800,
-                          learning_rate=0.01, e_greedy=0.9,
-                          replace_target_iter=100, memory_size=2000,
-                          e_greedy_increment=0.001, )
+                          learning_rate=0.001, e_greedy=0.9,
+                          replace_target_iter=300, memory_size=2000,
+                          e_greedy_increment=0.00001, )
 
         total_steps = 0
         rl_episode = 0
@@ -160,7 +160,7 @@ class DrivingBenchmark(object):
                             + str(experiment.task) + '_' + str(start_index)
                             + '.' + str(end_index), RL, total_steps,rl_episode)
                     total_steps = steps
-                    if total_steps%1000 == 0:
+                    if total_steps%500 == 0:
                         RL.save()
                         print("保存参数"+total_steps)
                     # Write the general status of the just ran episode
@@ -321,7 +321,7 @@ class DrivingBenchmark(object):
             measurement_vec.append(measurements.player_measurements)
             control_vec.append(control)
             col = player_measurements.collision_other
-            if offroad > 10 or other_lane > 10 or col > 0:
+            if offroad > 5 or other_lane > 5 or col > 0:
                 print('终止条件触发')
                 print('episode: ', episode,
                       'total_steps', total_steps,
