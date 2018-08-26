@@ -101,16 +101,18 @@ class DrivingBenchmark(object):
         print('START')
         # 测试RL的位置
         RL = DeepQNetwork(n_actions=7,
-                          n_features=200800,
+                          n_features=100800,
                           learning_rate=0.01, e_greedy=0.9,
                           replace_target_iter=100, memory_size=2000,
                           e_greedy_increment=0.001, )
 
         total_steps = 0
+        rl_episode = 0
 
 
         # for experiment in experiment_suite.get_experiments()[int(start_experiment):]:
-        for i in range(5):
+        while True:
+            rl_episode += 1
             a = experiment_suite.get_experiments()[int(start_experiment):]
             #for a in experiment_suite.get_experiments()[int(start_experiment):]:
             experiment = a[0]
@@ -151,13 +153,16 @@ class DrivingBenchmark(object):
                     # running the agent
                     # 运行 agent 跳转到_run-navigation_episode
                     # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-                    (result, reward_vec, control_vec, final_time, remaining_distance) = \
+                    (result, reward_vec, control_vec, final_time, remaining_distance,steps) = \
                         self._run_navigation_episode(
                             agent, client, time_out, positions[end_index],
                             str(experiment.Conditions.WeatherId) + '_'
                             + str(experiment.task) + '_' + str(start_index)
-                            + '.' + str(end_index),RL,total_steps)
-
+                            + '.' + str(end_index), RL, total_steps,rl_episode)
+                    total_steps = steps
+                    if total_steps%1000 == 0:
+                        RL.save()
+                        print("保存参数"+total_steps)
                     # Write the general status of the just ran episode
                     self._recording.write_summary_results(
                         experiment, pose, rep, initial_distance,
@@ -217,7 +222,7 @@ class DrivingBenchmark(object):
             client,
             time_out,
             target,
-            episode_name,rl,total_steps):
+            episode_name,rl,total_steps,episode):
         """
          Run one episode of the benchmark (Pose) for a certain agent.
          这是运行一次episode
@@ -250,10 +255,10 @@ class DrivingBenchmark(object):
         frame = 0
         distance = 10000
         success = False
-        episode = 0
+
         #while (current_timestamp - initial_timestamp) < (time_out * 1000) and not success:
         while True and not success:
-            episode += 1
+
             # Read data from server with the client
             # 从客户端获取到数据
             measurements, sensor_data = client.read_data()
@@ -286,10 +291,13 @@ class DrivingBenchmark(object):
             # 获取到目前为止的距离    也就是reward
             distance = sldist([current_x, current_y],
                               [target.location.x, target.location.y])
+            dista = sldist([current_x, current_y],
+                              [395.95, 308.2])
+
             player_measurements = measurements.player_measurements
             other_lane = 100 * player_measurements.intersection_otherlane
             offroad = 100 * player_measurements.intersection_offroad
-            reward = -other_lane-offroad+distance
+            reward = dista
             ### RLstore
             rl.store_transition(observation,action,reward,observation_)
             if total_steps > 100:
@@ -315,16 +323,17 @@ class DrivingBenchmark(object):
             col = player_measurements.collision_other
             if offroad > 10 or other_lane > 10 or col > 0:
                 print('终止条件触发')
-                print('episode: ', total_steps,
+                print('episode: ', episode,
+                      'total_steps', total_steps,
                       'ep_r: ', round(reward, 2),
                       ' epsilon: ', round(rl.epsilon, 2))
-                return 0, measurement_vec, control_vec, time_out, distance
+                return 0, measurement_vec, control_vec, time_out, distance, total_steps
 
 
             if success:
                 return 1, measurement_vec, control_vec, float(
-                    current_timestamp - initial_timestamp) / 1000.0, distance
-            return 0, measurement_vec, control_vec, time_out, distance
+                    current_timestamp - initial_timestamp) / 1000.0, distance, total_steps
+        return 0, measurement_vec, control_vec, time_out, distance, total_steps
 
 
 def run_driving_benchmark(agent,
@@ -359,22 +368,22 @@ def run_driving_benchmark(agent,
 
                 benchmark_summary = benchmark.benchmark_agent(experiment_suite, agent, client)
 
-                # print("")
-                # print("")
-                # print("----- Printing results for training weathers (Seen in Training) -----")
-                # print("")
-                # print("")
-                # results_printer.print_summary(benchmark_summary, experiment_suite.train_weathers,
-                #                               benchmark.get_path())
-                #
-                # print("")
-                # print("")
-                # print("----- Printing results for test weathers (Unseen in Training) -----")
-                # print("")
-                # print("")
-                #
-                # results_printer.print_summary(benchmark_summary, experiment_suite.test_weathers,
-                #                               benchmark.get_path())
+                print("")
+                print("")
+                print("----- Printing results for training weathers (Seen in Training) -----")
+                print("")
+                print("")
+                results_printer.print_summary(benchmark_summary, experiment_suite.train_weathers,
+                                              benchmark.get_path())
+
+                print("")
+                print("")
+                print("----- Printing results for test weathers (Unseen in Training) -----")
+                print("")
+                print("")
+
+                results_printer.print_summary(benchmark_summary, experiment_suite.test_weathers,
+                                               benchmark.get_path())
 
                 break
 

@@ -48,7 +48,7 @@ class BasicExperimentSuite(ExperimentSuite):
 
         camera = Camera('CameraRGB')
         camera.set(FOV=100)
-        camera.set_image_size(800, 600)
+        camera.set_image_size(210, 160)
         camera.set_position(2.0, 0.0, 1.4)
         camera.set_rotation(-15.0, 0, 0)
 

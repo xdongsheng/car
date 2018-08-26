@@ -12,7 +12,7 @@ import logging
 from carla.driving_benchmark import run_driving_benchmark
 from carla.driving_benchmark.experiment_suites import CoRL2017
 from carla.driving_benchmark.experiment_suites import BasicExperimentSuite
-from carla.agent import ForwardAgent
+from forward_agent import ForwardAgent
 
 if __name__ == '__main__':
 

@@ -140,9 +140,7 @@ class DeepQNetwork:
         # increasing epsilon
         self.epsilon = self.epsilon + self.epsilon_increment if self.epsilon < self.epsilon_max else self.epsilon_max
         self.learn_step_counter += 1
-        if self.learn_step_counter % 1000 == 0:
-            saver_path=self.saver.save(self.sess,"save/game_"+str(self.learn_step_counter)+".ckpt")
-            print("Model saved in file:", saver_path)
+
 
     def plot_cost(self):
         import matplotlib.pyplot as plt

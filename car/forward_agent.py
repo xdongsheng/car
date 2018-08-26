@@ -28,6 +28,7 @@ class ForwardAgent(Agent):
         image_RGB = to_rgb_array(sensor_data['CameraRGB'])
         image_RGB_real = image_RGB.flatten()
         observation=image_RGB_real
+        # print(image_RGB_real.shape[0])
         action=rl.choose_action(observation)
         brake1 = 0.0
         steer1 = 0.0
