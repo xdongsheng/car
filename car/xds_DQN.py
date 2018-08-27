@@ -67,14 +67,14 @@ class DeepQNetwork:
 
         # ------------------ build evaluate_net ------------------
         with tf.variable_scope('eval_net',reuse=tf.AUTO_REUSE):
-            e1 = tf.layers.dense(self.s, 20, tf.nn.relu, kernel_initializer=w_initializer,
+            e1 = tf.layers.dense(self.s, 500, tf.nn.relu, kernel_initializer=w_initializer,
                                  bias_initializer=b_initializer, name='e1')
             self.q_eval = tf.layers.dense(e1, self.n_actions, kernel_initializer=w_initializer,
                                           bias_initializer=b_initializer, name='q')
 
         # ------------------ build target_net ------------------
         with tf.variable_scope('target_net',reuse=tf.AUTO_REUSE):
-            t1 = tf.layers.dense(self.s_, 20, tf.nn.relu, kernel_initializer=w_initializer,
+            t1 = tf.layers.dense(self.s_,500, tf.nn.relu, kernel_initializer=w_initializer,
                                  bias_initializer=b_initializer, name='t1')
             self.q_next = tf.layers.dense(t1, self.n_actions, kernel_initializer=w_initializer,
                                           bias_initializer=b_initializer, name='t2')
@@ -150,10 +150,10 @@ class DeepQNetwork:
         plt.show()
     def save(self):
         saver=tf.train.Saver()
-        saver.save(self.sess,'./params')
+        saver.save(self.sess,"save/model.ckpt")
     def restore(self):
         saver=tf.train.Saver()
-        saver.restore(self.sess,'./params')
+        saver.restore(self.sess,"save/model.ckpt")
 
 if __name__ == '__main__':
     DQN = DeepQNetwork(3,4, output_graph=True)

@@ -103,8 +103,8 @@ class DrivingBenchmark(object):
         RL = DeepQNetwork(n_actions=7,
                           n_features=100800,
                           learning_rate=0.001, e_greedy=0.9,
-                          replace_target_iter=300, memory_size=2000,
-                          e_greedy_increment=0.00001, )
+                          replace_target_iter=500, memory_size=50000,
+                          e_greedy_increment=0.000001, )
 
         total_steps = 0
         rl_episode = 0
@@ -160,9 +160,9 @@ class DrivingBenchmark(object):
                             + str(experiment.task) + '_' + str(start_index)
                             + '.' + str(end_index), RL, total_steps,rl_episode)
                     total_steps = steps
-                    if total_steps%500 == 0:
-                        RL.save()
-                        print("保存参数"+total_steps)
+                    # if total_steps%500 == 0:
+                    #    RL.save()
+                    #    print("保存参数",total_steps)
                     # Write the general status of the just ran episode
                     self._recording.write_summary_results(
                         experiment, pose, rep, initial_distance,
@@ -292,17 +292,20 @@ class DrivingBenchmark(object):
             distance = sldist([current_x, current_y],
                               [target.location.x, target.location.y])
             dista = sldist([current_x, current_y],
-                              [395.95, 308.2])
-
+                              [392.95, 308.2])
+            # print([current_x,current_y])
             player_measurements = measurements.player_measurements
             other_lane = 100 * player_measurements.intersection_otherlane
             offroad = 100 * player_measurements.intersection_offroad
             reward = dista
             ### RLstore
             rl.store_transition(observation,action,reward,observation_)
-            if total_steps > 100:
+            if total_steps > 1000:
                 rl.learn()
             total_steps += 1
+            if total_steps%10000 == 0:
+                rl.save()
+                print('参数保存：',total_steps)
             # Write status of the run on verbose mode
             # 在详细模式下写入运行状态
             logging.info('Status:')

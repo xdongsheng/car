@@ -1,0 +1,3569 @@
+2018-08-27 07:09:01.657568: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+/home/cyh/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+ERROR: (localhost:2001) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+2018-08-27 15:59:37.175228: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+ WARNING: running the basic driving benchmark, to run for CoRL 2017 experiment suites, you should run python driving_benchmark_example.py --corl-2017
+0 0
+START
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  1 total_steps 81 ep_r:  9.13  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  2 total_steps 262 ep_r:  38.68  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  3 total_steps 375 ep_r:  16.89  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  4 total_steps 483 ep_r:  15.75  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  5 total_steps 615 ep_r:  20.44  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  6 total_steps 707 ep_r:  9.72  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  7 total_steps 798 ep_r:  14.22  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  8 total_steps 859 ep_r:  4.86  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 1000
+
+target_params_replaced
+
+终止条件触发
+episode:  9 total_steps 1059 ep_r:  47.23  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  10 total_steps 1105 ep_r:  8.74  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  11 total_steps 1140 ep_r:  3.81  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  12 total_steps 1195 ep_r:  12.58  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  13 total_steps 1237 ep_r:  6.1  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  14 total_steps 1277 ep_r:  5.52  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  15 total_steps 1315 ep_r:  4.3  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  16 total_steps 1373 ep_r:  11.22  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  17 total_steps 1417 ep_r:  6.9  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  18 total_steps 1452 ep_r:  3.79  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  19 total_steps 1552 ep_r:  30.55  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  20 total_steps 1608 ep_r:  12.71  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  21 total_steps 1653 ep_r:  7.62  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  22 total_steps 1711 ep_r:  13.06  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  23 total_steps 1755 ep_r:  7.01  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  24 total_steps 1805 ep_r:  9.12  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  25 total_steps 1878 ep_r:  19.98  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  26 total_steps 1938 ep_r:  14.85  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  27 total_steps 1994 ep_r:  12.12  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 2000
+
+target_params_replaced
+
+终止条件触发
+episode:  28 total_steps 2028 ep_r:  3.32  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  29 total_steps 2066 ep_r:  6.01  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  30 total_steps 2109 ep_r:  7.06  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  31 total_steps 2168 ep_r:  12.96  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  32 total_steps 2243 ep_r:  19.2  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  33 total_steps 2303 ep_r:  12.8  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  34 total_steps 2399 ep_r:  28.57  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  35 total_steps 2452 ep_r:  11.17  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  36 total_steps 2498 ep_r:  8.37  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  37 total_steps 2548 ep_r:  10.51  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  38 total_steps 2592 ep_r:  7.18  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  39 total_steps 2660 ep_r:  18.23  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  40 total_steps 2723 ep_r:  15.32  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  41 total_steps 2760 ep_r:  4.67  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  42 total_steps 2818 ep_r:  13.23  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  43 total_steps 2876 ep_r:  11.91  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  44 total_steps 2911 ep_r:  3.85  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  45 total_steps 2973 ep_r:  11.91  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 3000
+
+target_params_replaced
+
+终止条件触发
+episode:  46 total_steps 3028 ep_r:  12.09  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  47 total_steps 3073 ep_r:  7.26  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  48 total_steps 3167 ep_r:  25.56  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  49 total_steps 3209 ep_r:  7.1  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  50 total_steps 3242 ep_r:  3.41  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  51 total_steps 3279 ep_r:  4.69  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  52 total_steps 3351 ep_r:  19.96  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  53 total_steps 3398 ep_r:  8.6  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  54 total_steps 3454 ep_r:  12.48  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  55 total_steps 3561 ep_r:  35.73  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  56 total_steps 3606 ep_r:  7.98  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  57 total_steps 3644 ep_r:  4.97  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  58 total_steps 3725 ep_r:  18.79  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  59 total_steps 3767 ep_r:  7.06  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  60 total_steps 3812 ep_r:  6.94  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  61 total_steps 3850 ep_r:  4.54  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  62 total_steps 3902 ep_r:  11.32  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  63 total_steps 3949 ep_r:  8.96  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  64 total_steps 3996 ep_r:  9.02  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 4000
+
+target_params_replaced
+
+终止条件触发
+episode:  65 total_steps 4038 ep_r:  7.13  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  66 total_steps 4103 ep_r:  16.91  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  67 total_steps 4185 ep_r:  25.16  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  68 total_steps 4245 ep_r:  12.42  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  69 total_steps 4292 ep_r:  7.1  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  70 total_steps 4332 ep_r:  5.84  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  71 total_steps 4376 ep_r:  7.01  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  72 total_steps 4443 ep_r:  16.25  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  73 total_steps 4484 ep_r:  5.69  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  74 total_steps 4520 ep_r:  4.32  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  75 total_steps 4574 ep_r:  12.76  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  76 total_steps 4629 ep_r:  11.95  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  77 total_steps 4665 ep_r:  4.34  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  78 total_steps 4710 ep_r:  7.28  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  79 total_steps 4763 ep_r:  11.42  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  80 total_steps 4807 ep_r:  7.1  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  81 total_steps 4881 ep_r:  20.83  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  82 total_steps 4923 ep_r:  7.09  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  83 total_steps 4972 ep_r:  8.29  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 5000
+
+target_params_replaced
+
+终止条件触发
+episode:  84 total_steps 5005 ep_r:  3.25  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  85 total_steps 5105 ep_r:  34.48  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  86 total_steps 5178 ep_r:  19.72  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  87 total_steps 5211 ep_r:  3.3  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  88 total_steps 5253 ep_r:  5.72  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  89 total_steps 5290 ep_r:  4.62  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  90 total_steps 5352 ep_r:  14.74  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  91 total_steps 5403 ep_r:  11.36  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  92 total_steps 5446 ep_r:  7.19  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  93 total_steps 5490 ep_r:  7.09  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  94 total_steps 5535 ep_r:  7.85  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  95 total_steps 5588 ep_r:  10.56  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  96 total_steps 5627 ep_r:  6.32  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  97 total_steps 5685 ep_r:  10.91  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  98 total_steps 5745 ep_r:  15.57  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  99 total_steps 5786 ep_r:  5.99  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  100 total_steps 5851 ep_r:  15.81  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  101 total_steps 5892 ep_r:  6.97  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  102 total_steps 5938 ep_r:  7.74  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  103 total_steps 5985 ep_r:  9.17  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 6000
+
+target_params_replaced
+
+终止条件触发
+episode:  104 total_steps 6031 ep_r:  9.35  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  105 total_steps 6094 ep_r:  13.69  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  106 total_steps 6172 ep_r:  22.65  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  107 total_steps 6239 ep_r:  17.57  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  108 total_steps 6316 ep_r:  21.19  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  109 total_steps 6353 ep_r:  4.65  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  110 total_steps 6393 ep_r:  5.76  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  111 total_steps 6452 ep_r:  14.62  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  112 total_steps 6507 ep_r:  11.52  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  113 total_steps 6567 ep_r:  15.22  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  114 total_steps 6608 ep_r:  7.01  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  115 total_steps 6655 ep_r:  8.07  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  116 total_steps 6707 ep_r:  8.79  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  117 total_steps 6749 ep_r:  5.48  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 7000
+
+target_params_replaced
+
+终止条件触发
+episode:  118 total_steps 7220 ep_r:  7.44  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  119 total_steps 7261 ep_r:  5.27  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  120 total_steps 7293 ep_r:  3.04  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  121 total_steps 7329 ep_r:  4.1  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  122 total_steps 7398 ep_r:  19.41  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  123 total_steps 7447 ep_r:  10.16  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  124 total_steps 7486 ep_r:  6.28  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  125 total_steps 7527 ep_r:  5.93  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  126 total_steps 7568 ep_r:  6.19  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  127 total_steps 7625 ep_r:  12.13  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  128 total_steps 7670 ep_r:  7.25  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  129 total_steps 7734 ep_r:  14.72  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  130 total_steps 7772 ep_r:  4.03  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  131 total_steps 7835 ep_r:  14.49  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  132 total_steps 7868 ep_r:  3.22  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  133 total_steps 7901 ep_r:  3.31  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  134 total_steps 7948 ep_r:  9.0  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  135 total_steps 7984 ep_r:  4.33  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 8000
+
+target_params_replaced
+
+终止条件触发
+episode:  136 total_steps 8044 ep_r:  13.71  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  137 total_steps 8087 ep_r:  6.27  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  138 total_steps 8164 ep_r:  18.67  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  139 total_steps 8202 ep_r:  4.9  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  140 total_steps 8259 ep_r:  10.76  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  141 total_steps 8309 ep_r:  10.27  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  142 total_steps 8353 ep_r:  8.17  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  143 total_steps 8416 ep_r:  13.74  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  144 total_steps 8449 ep_r:  3.27  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  145 total_steps 8493 ep_r:  8.39  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  146 total_steps 8535 ep_r:  6.48  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  147 total_steps 8574 ep_r:  3.35  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  148 total_steps 8609 ep_r:  3.97  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  149 total_steps 8650 ep_r:  7.0  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 9000
+
+target_params_replaced
+
+终止条件触发
+episode:  150 total_steps 9064 ep_r:  7.44  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  151 total_steps 9116 ep_r:  10.84  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  152 total_steps 9176 ep_r:  12.9  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  153 total_steps 9219 ep_r:  7.04  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  154 total_steps 9275 ep_r:  12.06  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  155 total_steps 9377 ep_r:  33.12  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  156 total_steps 9422 ep_r:  7.09  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  157 total_steps 9461 ep_r:  5.06  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  158 total_steps 9513 ep_r:  10.85  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  159 total_steps 9581 ep_r:  16.94  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  160 total_steps 9641 ep_r:  11.33  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  161 total_steps 9674 ep_r:  3.27  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  162 total_steps 9724 ep_r:  10.07  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  163 total_steps 9762 ep_r:  6.06  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  164 total_steps 9794 ep_r:  3.07  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  165 total_steps 9853 ep_r:  12.44  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  166 total_steps 9889 ep_r:  4.5  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  167 total_steps 9923 ep_r:  3.51  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  168 total_steps 9967 ep_r:  4.52  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 10000
+
+target_params_replaced
+
+终止条件触发
+episode:  169 total_steps 10008 ep_r:  6.99  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  170 total_steps 10058 ep_r:  10.2  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  171 total_steps 10094 ep_r:  4.36  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  172 total_steps 10153 ep_r:  14.01  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  173 total_steps 10200 ep_r:  9.47  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  174 total_steps 10249 ep_r:  6.89  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  175 total_steps 10281 ep_r:  2.74  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  176 total_steps 10333 ep_r:  10.62  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  177 total_steps 10370 ep_r:  3.66  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  178 total_steps 10448 ep_r:  21.79  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  179 total_steps 10494 ep_r:  6.18  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  180 total_steps 10530 ep_r:  4.43  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  181 total_steps 10580 ep_r:  9.29  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  182 total_steps 10612 ep_r:  2.84  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  183 total_steps 10652 ep_r:  5.06  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  184 total_steps 10731 ep_r:  23.57  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  185 total_steps 10778 ep_r:  7.75  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  186 total_steps 10847 ep_r:  17.22  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  187 total_steps 10880 ep_r:  3.07  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  188 total_steps 10949 ep_r:  17.3  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 11000
+
+target_params_replaced
+
+终止条件触发
+episode:  189 total_steps 11003 ep_r:  10.82  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  190 total_steps 11041 ep_r:  5.93  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  191 total_steps 11074 ep_r:  3.25  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  192 total_steps 11118 ep_r:  6.71  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  193 total_steps 11169 ep_r:  10.86  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  194 total_steps 11224 ep_r:  12.71  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  195 total_steps 11274 ep_r:  10.14  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  196 total_steps 11329 ep_r:  12.14  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  197 total_steps 11382 ep_r:  10.98  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  198 total_steps 11418 ep_r:  5.51  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  199 total_steps 11467 ep_r:  9.33  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  200 total_steps 11513 ep_r:  7.35  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  201 total_steps 11557 ep_r:  6.66  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  202 total_steps 11671 ep_r:  35.46  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  203 total_steps 11745 ep_r:  20.09  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  204 total_steps 11796 ep_r:  7.42  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  205 total_steps 11846 ep_r:  10.61  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  206 total_steps 11899 ep_r:  10.86  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  207 total_steps 11935 ep_r:  3.63  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  208 total_steps 11977 ep_r:  6.81  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 12000
+
+target_params_replaced
+
+终止条件触发
+episode:  209 total_steps 12015 ep_r:  4.96  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  210 total_steps 12056 ep_r:  5.83  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  211 total_steps 12110 ep_r:  12.26  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  212 total_steps 12146 ep_r:  4.04  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  213 total_steps 12179 ep_r:  3.23  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  214 total_steps 12237 ep_r:  12.24  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  215 total_steps 12324 ep_r:  27.0  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  216 total_steps 12380 ep_r:  13.45  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  217 total_steps 12451 ep_r:  18.19  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  218 total_steps 12503 ep_r:  8.07  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  219 total_steps 12550 ep_r:  9.65  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  220 total_steps 12591 ep_r:  6.17  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  221 total_steps 12632 ep_r:  6.29  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  222 total_steps 12682 ep_r:  10.52  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  223 total_steps 12744 ep_r:  12.66  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  224 total_steps 12789 ep_r:  6.96  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  225 total_steps 12845 ep_r:  11.74  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  226 total_steps 12881 ep_r:  4.18  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  227 total_steps 12932 ep_r:  6.96  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  228 total_steps 12993 ep_r:  15.42  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 13000
+
+target_params_replaced
+
+终止条件触发
+episode:  229 total_steps 13040 ep_r:  8.48  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  230 total_steps 13100 ep_r:  14.17  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  231 total_steps 13140 ep_r:  5.81  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  232 total_steps 13192 ep_r:  8.85  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  233 total_steps 13237 ep_r:  8.76  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  234 total_steps 13270 ep_r:  3.39  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  235 total_steps 13305 ep_r:  3.46  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  236 total_steps 13346 ep_r:  6.9  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  237 total_steps 13435 ep_r:  25.69  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  238 total_steps 13466 ep_r:  2.87  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  239 total_steps 13532 ep_r:  17.39  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  240 total_steps 13575 ep_r:  7.18  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  241 total_steps 13616 ep_r:  5.44  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  242 total_steps 13654 ep_r:  3.51  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  243 total_steps 13690 ep_r:  3.34  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  244 total_steps 13729 ep_r:  5.43  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  245 total_steps 13842 ep_r:  38.2  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  246 total_steps 13886 ep_r:  7.89  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  247 total_steps 13942 ep_r:  9.83  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 14000
+
+target_params_replaced
+
+终止条件触发
+episode:  248 total_steps 14004 ep_r:  14.13  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  249 total_steps 14067 ep_r:  17.14  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  250 total_steps 14128 ep_r:  13.45  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  251 total_steps 14166 ep_r:  5.06  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  252 total_steps 14311 ep_r:  50.56  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  253 total_steps 14349 ep_r:  5.16  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  254 total_steps 14397 ep_r:  9.63  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  255 total_steps 14438 ep_r:  6.32  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  256 total_steps 14483 ep_r:  6.32  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  257 total_steps 14949 ep_r:  7.44  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  258 total_steps 14991 ep_r:  7.09  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 15000
+
+target_params_replaced
+
+终止条件触发
+episode:  259 total_steps 15045 ep_r:  11.28  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  260 total_steps 15079 ep_r:  3.57  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  261 total_steps 15115 ep_r:  4.25  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  262 total_steps 15156 ep_r:  7.06  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  263 total_steps 15197 ep_r:  5.54  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  264 total_steps 15230 ep_r:  3.29  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  265 total_steps 15270 ep_r:  5.79  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  266 total_steps 15307 ep_r:  4.63  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  267 total_steps 15354 ep_r:  8.22  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  268 total_steps 15421 ep_r:  17.98  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  269 total_steps 15468 ep_r:  8.85  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  270 total_steps 15525 ep_r:  12.54  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  271 total_steps 15567 ep_r:  6.05  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  272 total_steps 15604 ep_r:  4.03  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  273 total_steps 15648 ep_r:  7.3  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  274 total_steps 15734 ep_r:  26.55  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  275 total_steps 15791 ep_r:  11.56  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  276 total_steps 15842 ep_r:  9.63  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  277 total_steps 15878 ep_r:  4.32  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  278 total_steps 15946 ep_r:  18.1  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  279 total_steps 15997 ep_r:  10.38  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 16000
+
+target_params_replaced
+
+终止条件触发
+episode:  280 total_steps 16037 ep_r:  6.49  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  281 total_steps 16075 ep_r:  5.83  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  282 total_steps 16109 ep_r:  3.51  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  283 total_steps 16168 ep_r:  10.51  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  284 total_steps 16201 ep_r:  2.92  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  285 total_steps 16238 ep_r:  4.09  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  286 total_steps 16282 ep_r:  5.89  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  287 total_steps 16366 ep_r:  25.58  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  288 total_steps 16422 ep_r:  11.03  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  289 total_steps 16479 ep_r:  12.22  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  290 total_steps 16580 ep_r:  26.03  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  291 total_steps 16626 ep_r:  8.56  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  292 total_steps 16676 ep_r:  10.04  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  293 total_steps 16712 ep_r:  3.89  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  294 total_steps 16754 ep_r:  6.58  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  295 total_steps 16826 ep_r:  19.14  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  296 total_steps 16899 ep_r:  17.28  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  297 total_steps 16951 ep_r:  10.13  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  298 total_steps 16998 ep_r:  9.46  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 17000
+
+target_params_replaced
+
+终止条件触发
+episode:  299 total_steps 17036 ep_r:  4.94  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  300 total_steps 17083 ep_r:  8.08  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  301 total_steps 17152 ep_r:  20.09  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  302 total_steps 17201 ep_r:  8.08  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  303 total_steps 17254 ep_r:  11.59  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  304 total_steps 17366 ep_r:  39.03  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  305 total_steps 17413 ep_r:  8.77  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  306 total_steps 17454 ep_r:  5.23  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  307 total_steps 17504 ep_r:  8.33  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  308 total_steps 17544 ep_r:  5.22  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  309 total_steps 17606 ep_r:  15.34  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  310 total_steps 17664 ep_r:  12.76  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  311 total_steps 17695 ep_r:  2.83  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  312 total_steps 17752 ep_r:  12.12  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  313 total_steps 17789 ep_r:  4.18  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  314 total_steps 17956 ep_r:  63.66  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 18000
+
+target_params_replaced
+
+终止条件触发
+episode:  315 total_steps 18061 ep_r:  35.0  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  316 total_steps 18094 ep_r:  3.32  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  317 total_steps 18129 ep_r:  3.76  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  318 total_steps 18170 ep_r:  5.72  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  319 total_steps 18208 ep_r:  4.53  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  320 total_steps 18246 ep_r:  5.07  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  321 total_steps 18306 ep_r:  12.0  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  322 total_steps 18349 ep_r:  6.5  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  323 total_steps 18413 ep_r:  14.28  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  324 total_steps 18473 ep_r:  15.08  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  325 total_steps 18526 ep_r:  10.51  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  326 total_steps 18562 ep_r:  4.19  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  327 total_steps 18614 ep_r:  10.35  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  328 total_steps 18667 ep_r:  11.22  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  329 total_steps 18709 ep_r:  6.78  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  330 total_steps 18750 ep_r:  7.04  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  331 total_steps 18785 ep_r:  3.97  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  332 total_steps 18838 ep_r:  11.71  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  333 total_steps 18880 ep_r:  6.32  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  334 total_steps 18936 ep_r:  10.17  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  335 total_steps 18978 ep_r:  6.45  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 19000
+
+target_params_replaced
+
+终止条件触发
+episode:  336 total_steps 19009 ep_r:  2.88  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  337 total_steps 19054 ep_r:  7.99  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  338 total_steps 19130 ep_r:  18.03  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  339 total_steps 19166 ep_r:  5.32  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  340 total_steps 19218 ep_r:  10.02  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  341 total_steps 19270 ep_r:  9.56  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  342 total_steps 19340 ep_r:  19.69  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  343 total_steps 19383 ep_r:  7.02  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  344 total_steps 19426 ep_r:  7.14  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  345 total_steps 19472 ep_r:  8.98  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  346 total_steps 19505 ep_r:  3.07  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  347 total_steps 19549 ep_r:  7.21  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  348 total_steps 19625 ep_r:  22.0  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  349 total_steps 19665 ep_r:  5.54  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  350 total_steps 19698 ep_r:  3.39  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  351 total_steps 19743 ep_r:  6.26  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  352 total_steps 19796 ep_r:  11.76  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  353 total_steps 19858 ep_r:  13.07  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  354 total_steps 19900 ep_r:  6.45  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  355 total_steps 19944 ep_r:  7.04  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  356 total_steps 19977 ep_r:  3.18  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 20000
+
+target_params_replaced
+
+终止条件触发
+episode:  357 total_steps 20027 ep_r:  7.96  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  358 total_steps 20058 ep_r:  2.8  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  359 total_steps 20123 ep_r:  16.29  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  360 total_steps 20160 ep_r:  4.7  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  361 total_steps 20203 ep_r:  7.03  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  362 total_steps 20244 ep_r:  7.0  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  363 total_steps 20294 ep_r:  8.82  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  364 total_steps 20336 ep_r:  6.47  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  365 total_steps 20430 ep_r:  25.58  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  366 total_steps 20468 ep_r:  3.67  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  367 total_steps 20506 ep_r:  4.16  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  368 total_steps 20541 ep_r:  3.91  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  369 total_steps 20585 ep_r:  6.35  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  370 total_steps 20632 ep_r:  8.73  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  371 total_steps 20675 ep_r:  7.27  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  372 total_steps 20715 ep_r:  5.24  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  373 total_steps 20824 ep_r:  33.05  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  374 total_steps 20947 ep_r:  42.49  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+参数保存： 21000
+
+target_params_replaced
+
+终止条件触发
+episode:  375 total_steps 21018 ep_r:  17.74  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  376 total_steps 21077 ep_r:  13.49  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  377 total_steps 21136 ep_r:  14.11  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  378 total_steps 21210 ep_r:  18.73  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  379 total_steps 21251 ep_r:  6.98  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>
+78 66
+终止条件触发
+episode:  380 total_steps 21305 ep_r:  10.88  epsilon:  0.02
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7fb21ca7fa20>/home/cyh/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+ERROR: (localhost:2001) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+2018-08-27 19:00:36.264412: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+/home/cyh/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+ WARNING: running the basic driving benchmark, to run for CoRL 2017 experiment suites, you should run python driving_benchmark_example.py --corl-2017
+0 0
+START
+2018-08-27 19:12:48.432581: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  1 total_steps 77 ep_r:  8.51  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  2 total_steps 238 ep_r:  24.63  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  3 total_steps 355 ep_r:  14.81  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  4 total_steps 458 ep_r:  14.18  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  5 total_steps 614 ep_r:  25.32  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  6 total_steps 709 ep_r:  10.52  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  7 total_steps 832 ep_r:  15.91  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  8 total_steps 956 ep_r:  15.91  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+参数保存： 1000
+
+target_params_replaced
+
+终止条件触发
+episode:  9 total_steps 1012 ep_r:  5.21  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  10 total_steps 1058 ep_r:  7.8  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  11 total_steps 1100 ep_r:  7.11  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  12 total_steps 1137 ep_r:  4.01  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  13 total_steps 1248 ep_r:  38.5  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  14 total_steps 1300 ep_r:  11.44  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  15 total_steps 1373 ep_r:  16.73  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  16 total_steps 1417 ep_r:  6.83  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  17 total_steps 1452 ep_r:  3.76  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  18 total_steps 1554 ep_r:  31.36  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  19 total_steps 1614 ep_r:  14.25  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  20 total_steps 1648 ep_r:  3.57  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  21 total_steps 1710 ep_r:  14.03  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  22 total_steps 1753 ep_r:  7.12  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  23 total_steps 1786 ep_r:  3.29  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  24 total_steps 1847 ep_r:  15.64  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  25 total_steps 1881 ep_r:  3.63  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  26 total_steps 1938 ep_r:  13.52  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  27 total_steps 1994 ep_r:  12.12  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+参数保存： 2000
+
+target_params_replaced
+
+终止条件触发
+episode:  28 total_steps 2027 ep_r:  3.25  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  29 total_steps 2067 ep_r:  6.41  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  30 total_steps 2112 ep_r:  8.13  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  31 total_steps 2167 ep_r:  11.53  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  32 total_steps 2242 ep_r:  18.07  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  33 total_steps 2304 ep_r:  13.79  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  34 total_steps 2400 ep_r:  29.88  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  35 total_steps 2453 ep_r:  10.14  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  36 total_steps 2498 ep_r:  7.87  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  37 total_steps 2548 ep_r:  10.6  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  38 total_steps 2592 ep_r:  7.18  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  39 total_steps 2660 ep_r:  17.52  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  40 total_steps 2722 ep_r:  15.05  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  41 total_steps 2773 ep_r:  10.71  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  42 total_steps 2812 ep_r:  5.25  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  43 total_steps 2881 ep_r:  17.16  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  44 total_steps 2920 ep_r:  4.74  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  45 total_steps 2974 ep_r:  11.28  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+参数保存： 3000
+
+target_params_replaced
+
+终止条件触发
+episode:  46 total_steps 3027 ep_r:  12.03  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  47 total_steps 3072 ep_r:  7.96  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  48 total_steps 3143 ep_r:  18.67  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  49 total_steps 3202 ep_r:  13.81  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  50 total_steps 3242 ep_r:  6.09  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  51 total_steps 3279 ep_r:  4.74  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  52 total_steps 3351 ep_r:  19.93  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  53 total_steps 3400 ep_r:  9.32  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  54 total_steps 3434 ep_r:  3.57  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  55 total_steps 3559 ep_r:  44.7  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  56 total_steps 3606 ep_r:  9.05  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  57 total_steps 3644 ep_r:  4.97  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  58 total_steps 3725 ep_r:  18.79  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  59 total_steps 3767 ep_r:  7.06  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  60 total_steps 3811 ep_r:  6.66  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  61 total_steps 3849 ep_r:  4.69  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  62 total_steps 3902 ep_r:  11.85  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  63 total_steps 3949 ep_r:  8.91  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  64 total_steps 3996 ep_r:  9.15  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+参数保存： 4000
+
+target_params_replaced
+
+终止条件触发
+episode:  65 total_steps 4038 ep_r:  7.1  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  66 total_steps 4102 ep_r:  16.55  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  67 total_steps 4139 ep_r:  4.44  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  68 total_steps 4192 ep_r:  11.34  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  69 total_steps 4244 ep_r:  11.96  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  70 total_steps 4280 ep_r:  5.08  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  71 total_steps 4328 ep_r:  9.26  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  72 total_steps 4375 ep_r:  9.07  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  73 total_steps 4444 ep_r:  16.16  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  74 total_steps 4482 ep_r:  4.63  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  75 total_steps 4515 ep_r:  3.28  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  76 total_steps 4574 ep_r:  15.12  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  77 total_steps 4629 ep_r:  12.08  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  78 total_steps 4665 ep_r:  4.41  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  79 total_steps 4710 ep_r:  7.34  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  80 total_steps 4763 ep_r:  11.3  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  81 total_steps 4807 ep_r:  7.02  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  82 total_steps 4881 ep_r:  20.83  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  83 total_steps 4923 ep_r:  7.21  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  84 total_steps 4972 ep_r:  8.23  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+参数保存： 5000
+
+target_params_replaced
+
+终止条件触发
+episode:  85 total_steps 5004 ep_r:  3.13  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  86 total_steps 5103 ep_r:  33.0  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  87 total_steps 5178 ep_r:  18.41  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  88 total_steps 5211 ep_r:  3.38  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  89 total_steps 5253 ep_r:  5.72  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  90 total_steps 5290 ep_r:  4.68  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  91 total_steps 5352 ep_r:  14.74  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  92 total_steps 5403 ep_r:  11.22  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  93 total_steps 5446 ep_r:  7.31  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  94 total_steps 5490 ep_r:  7.09  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  95 total_steps 5535 ep_r:  7.85  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  96 total_steps 5586 ep_r:  9.77  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  97 total_steps 5625 ep_r:  6.22  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  98 total_steps 5688 ep_r:  15.44  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  99 total_steps 5756 ep_r:  18.86  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  100 total_steps 5787 ep_r:  2.7  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  101 total_steps 5853 ep_r:  17.38  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  102 total_steps 5897 ep_r:  8.4  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  103 total_steps 5934 ep_r:  3.6  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  104 total_steps 5988 ep_r:  12.11  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+参数保存： 6000
+
+target_params_replaced
+
+终止条件触发
+episode:  105 total_steps 6038 ep_r:  10.63  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  106 total_steps 6087 ep_r:  9.6  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  107 total_steps 6133 ep_r:  9.3  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  108 total_steps 6168 ep_r:  3.84  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  109 total_steps 6237 ep_r:  18.74  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  110 total_steps 6298 ep_r:  15.0  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  111 total_steps 6331 ep_r:  3.3  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  112 total_steps 6394 ep_r:  15.35  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  113 total_steps 6485 ep_r:  28.41  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  114 total_steps 6563 ep_r:  23.73  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  115 total_steps 6610 ep_r:  9.21  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  116 total_steps 6654 ep_r:  6.79  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  117 total_steps 6708 ep_r:  10.71  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  118 total_steps 6748 ep_r:  5.51  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+参数保存： 7000
+
+target_params_replaced
+
+终止条件触发
+episode:  119 total_steps 7220 ep_r:  7.43  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  120 total_steps 7261 ep_r:  5.27  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  121 total_steps 7293 ep_r:  3.04  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  122 total_steps 7329 ep_r:  4.16  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  123 total_steps 7398 ep_r:  19.28  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  124 total_steps 7447 ep_r:  10.21  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  125 total_steps 7486 ep_r:  6.38  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  126 total_steps 7526 ep_r:  5.47  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  127 total_steps 7571 ep_r:  7.86  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  128 total_steps 7623 ep_r:  10.02  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  129 total_steps 7667 ep_r:  7.0  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  130 total_steps 7739 ep_r:  17.42  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  131 total_steps 7773 ep_r:  3.27  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  132 total_steps 7834 ep_r:  14.65  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  133 total_steps 7868 ep_r:  3.17  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  134 total_steps 7901 ep_r:  3.27  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  135 total_steps 7947 ep_r:  8.8  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  136 total_steps 7983 ep_r:  4.31  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+参数保存： 8000
+
+target_params_replaced
+
+终止条件触发
+episode:  137 total_steps 8035 ep_r:  10.87  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  138 total_steps 8068 ep_r:  4.55  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  139 total_steps 8127 ep_r:  14.14  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  140 total_steps 8169 ep_r:  5.02  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  141 total_steps 8205 ep_r:  3.38  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  142 total_steps 8276 ep_r:  15.32  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  143 total_steps 8335 ep_r:  11.92  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  144 total_steps 8418 ep_r:  22.54  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  145 total_steps 8454 ep_r:  3.53  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  146 total_steps 8494 ep_r:  6.73  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+
+target_params_replaced
+
+终止条件触发
+episode:  147 total_steps 8537 ep_r:  6.32  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  148 total_steps 8574 ep_r:  3.53  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  149 total_steps 8609 ep_r:  3.98  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+终止条件触发
+episode:  150 total_steps 8650 ep_r:  7.0  epsilon:  0.01
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f66deb3fa20>
+78 66
+ERROR: (localhost:2001) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+ERROR: (localhost:2000) failed to connect: timed out
+2018-08-27 20:48:29.970916: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+/home/cyh/anaconda3/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+ WARNING: running the basic driving benchmark, to run for CoRL 2017 experiment suites, you should run python driving_benchmark_example.py --corl-2017
+0 0
+START
+2018-08-27 20:50:44.092684: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  1 total_steps 81 ep_r:  7.58  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  2 total_steps 241 ep_r:  25.64  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  3 total_steps 354 ep_r:  13.68  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  4 total_steps 459 ep_r:  13.14  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  5 total_steps 641 ep_r:  29.41  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  6 total_steps 714 ep_r:  6.33  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  7 total_steps 826 ep_r:  14.21  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  8 total_steps 926 ep_r:  12.82  epsilon:  0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+参数保存： 1000
+
+target_params_replaced
+
+终止条件触发
+episode:  9 total_steps 1029 ep_r:  17.54  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  10 total_steps 1068 ep_r:  5.3  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  11 total_steps 1112 ep_r:  7.22  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  12 total_steps 1153 ep_r:  4.19  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  13 total_steps 1195 ep_r:  6.56  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  14 total_steps 1237 ep_r:  6.04  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  15 total_steps 1277 ep_r:  5.58  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  16 total_steps 1315 ep_r:  4.3  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+终止条件触发
+episode:  17 total_steps 1373 ep_r:  11.22  epsilon:  0.0
+experiment
+<carla.driving_benchmark.experiment.Experiment object at 0x7f4a4b6ffa20>
+78 66
+ERROR: (localhost:2001) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out
+ERROR: (localhost:2000) failed to read data: timed out

@@ -35,7 +35,7 @@ class BasicExperimentSuite(ExperimentSuite):
         # The size of the vector is related to the number of tasks, inside each
         # task there is also multiple poses ( start end, positions )
         if self._city_name == 'Town01':
-            poses_tasks = [[[77, 66]], [[78, 66]], [[78, 66]], [[78, 66]]]
+            poses_tasks = [[[78, 66]], [[78, 66]], [[78, 66]], [[78, 66]]]
             vehicles_tasks = [0, 0, 0, 0]
             pedestrians_tasks = [0, 0, 0, 0]
         else:
